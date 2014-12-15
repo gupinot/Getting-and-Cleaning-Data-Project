@@ -28,4 +28,5 @@ Variables :
     - f -> frequency
     - Mag -> Magnitude
 - avg_data : from all_data, average of each variable for each activity and each subject, ordered by subject and activity
-  file avg_data.txt as output file of avg_data thanks to a call to write.table function
+
+file avg_data.txt as output file of avg_data thanks to a call to write.table function
