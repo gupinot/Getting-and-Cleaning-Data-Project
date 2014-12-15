@@ -8,6 +8,7 @@ The dataset includes the following files (under "UCI HAR Dataset" directory):
 - 'test/X_test.txt': Test set.
 - 'test/y_test.txt': Test labels.
 
+
 Variables :
 - temp : temp file used to download and unzip the dataset
 - feature_labels, activity_labels, x_train, y_train, subject_train, x_test, y_test, subject_test : contain the data from the downloaded files
