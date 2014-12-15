@@ -1,7 +1,6 @@
-  CodeBook.md
+CodeBook.md
 
-The dataset includes the following files(under "UCI HAR Dataset" directory):
-=========================================
+The dataset includes the following files (under "UCI HAR Dataset" directory):
 - 'README.txt'
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 - 'features.txt': List of all features.
