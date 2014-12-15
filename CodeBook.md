@@ -1,3 +1,4 @@
+  CodeBook.md
 
 The dataset includes the following files(under "UCI HAR Dataset" directory):
 =========================================
