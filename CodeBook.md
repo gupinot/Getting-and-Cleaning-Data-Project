@@ -15,6 +15,9 @@ Variables :
   Data are loaded with data.read() function with columns names setting as follow :
     - feature_labels : id, label
     - activity_labels : activity.id, activity.label
+    - subject_train : subject
+    - y_... : activity.id
+    - x_... : feature_labels.label
 - x_data, y_data, subject_data : merge of corresponding test and train data (done with rbind() function)
 - all_data : 
   - merge of all data (x, y and subject) (done with cbid() function)
